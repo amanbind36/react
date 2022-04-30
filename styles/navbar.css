@@ -1,0 +1,9 @@
+#container{
+    border: 1px solid red;
+    display: flex;
+}#option{
+     display: flex;
+     justify-content: space-around;
+}#container>div{
+    width: 50%;
+}
